@@ -1,0 +1,11 @@
+0.1.3 (beta)
+    Fixed bug where colors that are not standard to Ableton would not be picked up by the controller. This would only
+    happen when the user has certain plugins installed that expand the color range of Ableton.
+
+0.1.2 (beta)
+    Fixed bug where the script would crash when multiple controllers that use Ableton MIDI remote scripts are connected
+
+0.1.1 (beta)
+    Added support for Ableton 11
+    Fixed bug that caused the script to crash when the parameters would be reconnected after changing track selection
+    Sometimes the script would crash when 
